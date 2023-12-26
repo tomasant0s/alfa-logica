@@ -41,7 +41,7 @@ export function Contact() {
       <h1 className="text-3xl font-semibold text-white mb-4 mt-5">{t("contact")}</h1>
       <form
         onSubmit={formik.handleSubmit}
-        className="w-full max-w-md sm:w-2/3 md:w-1/2 p-5"
+        className="w-full sm:w-2/3 md:w-1/2 p-5"
       >
         <div className="mb-4">
           <label htmlFor="name" className="block text-white font-semibold">
