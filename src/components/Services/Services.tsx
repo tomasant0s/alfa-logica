@@ -15,13 +15,6 @@ export function Services() {
             <p>
             {t("text1")}
             </p>
-            <ul className="list-disc list-inside">
-              <li>{t("li1")}</li>
-              <li>{t("li2")}</li>
-              <li>{t("li3")}</li>
-              <li>{t("li4")}</li>
-            </ul>
-            <p>{t("subtext1")}</p>
           </div>
           {/* Box 2 */}
           <div className="bg-white p-4 mt-2 rounded-md shadow-2xl">
@@ -33,12 +26,7 @@ export function Services() {
           {/* Box 3 */}
           <div className="bg-white p-4 mt-2 rounded-md shadow-2xl">
             <h2 className="text-xl font-semibold">{t("title3")}</h2>
-            <ul className="list-disc list-inside">
-              <li>{t("li5")}</li>
-              <li>{t("li6")}</li>
-              <li>{t("li7")}</li>
-              <li>{t("li8")}</li>
-            </ul>
+            <p>{t("text3")}</p>
           </div>
           {/* Box 4 */}
           <div className="bg-white p-4 mt-2 rounded-md shadow-2xl">

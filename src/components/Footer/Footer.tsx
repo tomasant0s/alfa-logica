@@ -12,7 +12,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between text-center text-md-left">
           <div className="mb-4 md:mb-0">
-            <Image src={logo} alt={'Logo'} width={120} height={120} className="ml-16" />
+            <h1>*Logo*</h1>
             <p className="text-xs">&copy; 2023 Seu Site. Todos os direitos reservados.</p>
           </div>
           <div className="text-sm">

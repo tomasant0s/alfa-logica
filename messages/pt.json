@@ -9,51 +9,43 @@
     },
 
     "Hero":{
-        "text": "Consultoria"
+        "text": "Sistemas"
       },
 
       "About": {
         "about us": "Sobre Nós",
-        "history": "Nossa História",
-        "text1": "Durante a jornada de transporte, frequentemente surge a necessidade de enfrentar desafios regulatórios, como a exigência de opacidade para continuar as operações comerciais. É aí que a Alfa Ritill entra em cena. Somos uma empresa dedicada a fornecer soluções e serviços de alta qualidade para aqueles que possuem caminhões e desejam agregá-los a transportadoras. Ou, se você já é proprietário de uma empresa de transporte rodoviário, estamos aqui para ajudar a facilitar o cumprimento dos requisitos regulatórios. O que nos torna únicos é o fato de sermos credenciados pelo INEA (Instituto Estadual do Ambiente) para realizar o Serviço de Medição de Emissões de Veículos, conforme concedido no instrumento CTA No. IN001928. Isso significa que nossos serviços são respaldados pelos mais altos padrões de qualidade e conformidade.",
+        "history": "Um Pouco da Alfa",
+        "text1": "Somos apaixonados por transformar ideias em realidade digital. Na Alfa, estamos comprometidos em criar soluções inovadoras e eficientes para atender às necessidades únicas do seu negócio. Combinando expertise técnica e criatividade, oferecemos uma gama de serviços especializados em desenvolvimento de sistemas.",
         "mission": "Nossa Missão",
-        "text2": "Liderando nossa equipe está o Engenheiro Ambiental Roberto de Faria Santos, um profissional experiente e qualificado que lidera nossos esforços na medição de emissões veiculares. Sua expertise e conhecimento profundo do setor garantem que você esteja em boas mãos quando se trata de atender a todas as regulamentações relacionadas à emissão de veículos. Na Alfa Ritill, acreditamos em fornecer um serviço confiável, eficiente e personalizado. Estamos comprometidos em ajudar nossos clientes a enfrentar desafios regulatórios, economizar tempo e recursos, e garantir que possam continuar suas operações comerciais sem preocupações. Se você está buscando uma solução confiável e um parceiro comprometido para lidar com o teste de opacidade e outros requisitos regulatórios, entre em contato conosco. Estamos prontos para ajudá-lo a navegar pelo caminho da conformidade e do sucesso no transporte. Alfa Ritill: Sua Parceria na Conformidade Regulatória do Transporte."
+        "text2": "Na vanguarda da inovação tecnológica, a Alfa reúne uma equipe talentosa de desenvolvedores, designers e estrategistas que estão prontos para superar desafios e entregar resultados excepcionais. Nossa cultura é centrada na colaboração, na busca incessante pela excelência e no compromisso com a satisfação do cliente."
       },
       
       "Services":{
         "services": "Serviços",
         
-        "title1": "Vinculação ao Programa Procon Fumaça Preta no INEA:",
-        "text1": "Estamos vinculando sua empresa ao INEA no programa Procon Fumaça Preta. Para a vinculação da frota veicular a diesel, é necessário enviar os seguintes documentos no Formulário de Vinculação de Empresas:",
-        "li1": "Carta timbrada da empresa solicitando a vinculação.",
-        "li2": "Cópia do Contrato Social.",
-        "li3": "Cópia do Cartão CNPJ da empresa.",
-        "li4": "Planilha de Vinculação.",
-        "subtext1": "As medições devem ocorrer obrigatoriamente a cada 4 meses.",
+        "title1": "Desenvolvimento de Software Personalizado:",
+        "text1": "Criamos sistemas sob medida para atender às suas necessidades específicas. Desde aplicativos móveis intuitivos até soluções empresariais complexas, nossa equipe está preparada para desenvolver software de alta qualidade que impulsiona o crescimento do seu negócio.",
         
-        "title2": "Documentos para a Realização do Teste de Opacidade:",
-        "text2": "O contratante tem que enviar no aceite da proposta a cópia do documento do veículo (CRLV).",
+        "title2": "Consultoria em Tecnologia:",
+        "text2": "Oferecemos consultoria especializada para ajudar sua empresa a aproveitar ao máximo as últimas tecnologias. Desde estratégias de transformação digital até otimização de processos, estamos aqui para orientar e implementar soluções eficazes.",
         
-        "title3": "Procedimentos após o Teste de Opacidade:",
-        "li5": "Envio para o INEA do Certificado de Aprovação e do boletim com as medições de opacidade em até 72 horas úteis.",
-        "li6":"Envio para o contratante do Certificado de Aprovação e do boletim com as medições.",
-        "li7": "Fixação do adesivo do programa Procon Fumaça Preta no veículo aprovado.",
-        "li8": "Análise e envio do Protocolo de entrega do boletim pelo INEA.",
+        "title3": "Integração de Sistemas:",
+        "text3": "Facilitamos a integração perfeita de diferentes sistemas para garantir uma operação harmoniosa e eficiente. Nossa abordagem técnica e cuidadosa permite que seus sistemas trabalhem em conjunto, maximizando a produtividade e minimizando os obstáculos.",
         
         "title4": "Outras Informações Importantes:",
-        "li9": "O veículo deve estar no local, data e hora previamente definidos para o teste de opacidade.",
-        "li10": "Qualquer mudança na hora, data e local deve ser avisada com 24 horas de antecedência através de três canais de comunicação (Email, Telefone e WhatsApp)."
+        "li9": "Orçamentos feitos com 4 dias uteis",
+        "li10": "Qualquer mudança no Sistema deve ser avisada com 24 horas de antecedência através de três canais de comunicação (Email, Telefone e WhatsApp)."
         },
 
         "Legi": {
-          "legi": "Legislação Aplicada",
-          "title": "Legislação do Programa Procon Fumaça Preta",
-          "li1": "Resolução CONAMA nº 418/09",
-          "li2": "Resolução CONEMA nº 58/13",
-          "li3": "Resolução CONEMA nº 70",
-          "li4": "NOP-INEA-13.R-1",
-          "li5": "NOP-INEA-14",
-          "li6": "DZ 582. R-1"
+          "legi": "Por que Escolher a Alfa?",
+          "title": "Pontos",
+          "li1": "Compromisso com a qualidade e inovação.",
+          "li2": "Experiência comprovada em desenvolvimento de software.",
+          "li3": "Abordagem personalizada para cada projeto.",
+          "li4": "Parceria dedicada com os clientes em todas as etapas.",
+          "li5": "Resultados tangíveis e impacto mensurável.",
+          "li6": "Na Alfa, estamos prontos para transformar suas ideias em realidade digital. Entre em contato conosco para descobrir como podemos impulsionar o seu negócio para o próximo nível."
           },
 
           "Clients":{
