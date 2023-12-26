@@ -27,8 +27,8 @@ export function NavBar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <div className="flex-shrink-0">
-              <Image src={logo} alt={""} width={80} height={80} />
+            <div className="flex-shrink-0 text-white">
+              <h1>*Logo*</h1>
             </div>
           </div>
           <div className="hidden md:block text-white">
