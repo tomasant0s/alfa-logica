@@ -5,7 +5,7 @@ export function Services() {
   const t = useTranslations("Services");
 
   return (
-    <div id="service" className="p-8 mx-auto ">
+    <div id="service" className="p-10 mx-auto ">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold text-center">{t("services")}</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
